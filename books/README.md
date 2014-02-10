@@ -36,10 +36,10 @@ Rails Book
 
 文档：
 ====
-[Ruby Doc](http://ruby-doc.org)
-[Dev Doc](http://devdocs.io/)
-[Rails Guides](http://guides.rubyonrails.org/)
-[Rails Api](http://api.rubyonrails.org)
+* [Ruby Doc](http://ruby-doc.org)
+* [Dev Doc](http://devdocs.io/)
+* [Rails Guides](http://guides.rubyonrails.org/)
+* [Rails Api](http://api.rubyonrails.org)
 
 欢迎大家添加！
 
