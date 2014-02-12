@@ -32,7 +32,7 @@ Rails Book
   Edition](http://pragprog.com/book/jvrails2/crafting-rails-4-applications)
 * [Rails4 in Action](http://www.manning.com/bigg2/)
 * [the Rails4 way](https://leanpub.com/tr4w)
-
+* [Restful web service](http://book.douban.com/subject/3094230/)
 
 文档：
 ====
@@ -40,7 +40,6 @@ Rails Book
 * [Dev Doc](http://devdocs.io/)
 * [Rails Guides](http://guides.rubyonrails.org/)
 * [Rails Api](http://api.rubyonrails.org)
-* [Restful web service](http://book.douban.com/subject/3094230/)
 
 欢迎大家添加！
 
