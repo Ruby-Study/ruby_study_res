@@ -40,6 +40,7 @@ Rails Book
 * [Dev Doc](http://devdocs.io/)
 * [Rails Guides](http://guides.rubyonrails.org/)
 * [Rails Api](http://api.rubyonrails.org)
+* [Restful web service](http://book.douban.com/subject/3094230/)
 
 欢迎大家添加！
 
